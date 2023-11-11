@@ -43,8 +43,6 @@ export default function Footer() {
                                     <Link
                                         to="/github"
                                         className="hover:underline"
-                                        target="_blank"
-                                        rel="noreferrer"
                                     >
                                         Github
                                     </Link>
